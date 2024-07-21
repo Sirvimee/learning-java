@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="metshein:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/metshein_jar</output-path>
+    <root id="archive" name="metshein.jar">
+      <element id="module-output" name="metshein" />
+    </root>
+  </artifact>
+</component>
